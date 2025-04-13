@@ -1,5 +1,5 @@
 package com.thomas.tp_spring.repository;
-import com.thomas.tp_spring.model.Hero;
+import com.thomas.tp_spring.model.hero.Hero;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.util.List;
